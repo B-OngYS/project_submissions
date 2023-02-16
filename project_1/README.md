@@ -61,14 +61,14 @@ wet_bulb_temperature|*float*|wet-bulb-temperature-hourly|The average wet bulb te
 sg_emissions(kt)|*float*|co2_data|The yearly $CO_2$ emissions by Singapore in kilotonnes|
 wrld_emissions(kt)|*float*|co2_data|The yearly $CO_2$ emissions by the world in kilotonnes|
 
-###Key takeaways
+### Key takeaways
 
 - Singapore's weather is becoming more extreme and it correlates to the increase in $CO_2$ emissions.
 - Median temperatures have risen by about 1 degree celcius
 - The variation of the the average surface air temperature has increased over the decades.
 - The total monthly rainfall swings to the extremes with more frequent dry spells.
 
-###Recommendations
+### Recommendations
 
 - Using the temperature, total rainfall and maximum rainfall, NEA can convince its stakeholders (the public and other governemnt agencies) that $CO_2$ emissions are linked to more extreme weather.
 - According to data from Our World in Data, electricity makes up the majority of Singapore's $CO_2$ emissions so that is where they should focus their efforts convincing people to be more energy efficient.
