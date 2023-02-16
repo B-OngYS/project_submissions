@@ -2,13 +2,13 @@
 
 ### Overview
 
-<font size = "3">Internationally, $CO_2$ emissions has been linked to the increased occurrences of extreme weather events$^1$. Singapore has had extreme weather experiences including the 1997 'haze' $^2$, the 2011 'ponding' of Liat Towers$^3$, and in 2022 flash floods closing sections of the Ulu Pandan park connector$^4$.</font>
+<font size = "3">Internationally, $CO_2$ emissions has been linked to the increased occurrences of extreme weather events$^1$. Singapore has had extreme weather experiences including the 1997 'haze' $^2$, the 2011 'ponding' of Liat Towers $^3$, and in 2022 flash floods closing sections of the Ulu Pandan park connector $^4$.</font>
 
 <font size='3'>According to the National Climate Change Secretariat (NCCS), a strategy group of the Singapore Prime Minister's office, "[r]ainfall has become more intense in recent years. Annual rainfall total for Singapore has increased at an average rate of 67 mm per decade from 1980 to 2019."$^5$</font>
 
 <font size='3'>$CO_2$ emissions have been rising globally. From data from the world bank, $CO_2$ emissions have risen from 20,625,000 kilotonnes in 1990 to 34,344,006 kilotonnes in 2019. $^6$</font>
 
-<font size='3'>Similarly, Singapore has also increased its $CO_2$ emissions from 28,970 kilotonnes in 1990 to a peak of 49,140 kilotonnes in 2017.$^7$</font>
+<font size='3'>Similarly, Singapore has also increased its $CO_2$ emissions from 28,970 kilotonnes in 1990 to a peak of 49,140 kilotonnes in 2017. $^7$</font>
 
 
 $^1$ _CO2 Can Directly Impact Extreme Weather, Research Suggests_ (https://www.scientificamerican.com/article/co2-can-directly-impact-extreme-weather-research-suggests/#:~:text=Even%20though%20average%20global%20temperatures,certain%20regions%20around%20the%20world.)
