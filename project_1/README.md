@@ -65,6 +65,7 @@ wrld_emissions(kt)|*float*|co2_data|The yearly $CO_2$ emissions by the world in 
 - Median temperatures have risen by about 1 degree celcius
 - The variation of the the average surface air temperature has increased over the decades.
 - The total monthly rainfall swings to the extremes with more frequent dry spells.
+- Outside the monsoon, there is an increase in abnormally rainy months.
 
 ### Recommendations
 
